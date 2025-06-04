@@ -86,7 +86,7 @@ df_sp_limpo_norm = df_sp_limpo.copy()
 df_sp_limpo_norm[colunas_numericas] = (dados_numeros - dados_numeros.min()) / (dados_numeros.max() - dados_numeros.min())
 df_sp_limpo_norm
 
-from IPython.display import display
+from ipython import display
 pd.options.plotting.backend = "plotly"
 
 import plotly.express as px

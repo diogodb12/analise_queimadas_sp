@@ -1,2 +1,3 @@
 base_de_dados/focos_br_todos-sats_2024.csv filter=lfs diff=lfs merge=lfs -text
 base_de_dados filter=lfs diff=lfs merge=lfs -text
+base_de_dados/focos_br_todos-sats_2024.csv filter=lfs diff=lfs merge=lfs -text
